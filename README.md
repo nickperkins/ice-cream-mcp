@@ -107,7 +107,7 @@ All input is validated using Zod schemas before processing, ensuring robust erro
 
 ## Blog Post
 
-📖 **[Read the detailed blog post about this implementation →](#)**
+📖 **[Read the detailed blog post about this implementation →](https://nickperkins.au/code/mcp-elicitations-interactive-tools/)**
 
 ## Next Steps
 
