@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "ice-cream-topping-recommender": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/build/index.js"]
+    }
+  }
+}
